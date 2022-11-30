@@ -6,7 +6,7 @@
 }
 .link {
   text-decoration: none;
-  color:#2f80ed
+  color:#2f80ed;
 }
 .header {
   height: 756px;
@@ -170,7 +170,6 @@
   height: 890px;
 }
 .feynman__title {
-  margin: 0;
   width: 648px;
   line-height: 1.15;
   font-size: 150px;
@@ -257,7 +256,7 @@
 .footer__columns {
   display: flex;
   flex-direction: row;
-  width: 90% ;
+  width: 90%;
   margin: 0 auto;
   justify-content: space-between;
 }
@@ -273,7 +272,6 @@
  margin-top: 10px;
 }
 .column-links {
-  margin: 0;
   padding: 0;
   margin: 20px 0 16px;
 }

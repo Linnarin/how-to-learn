@@ -103,10 +103,10 @@
   margin: 0;
 }
 .two-columns__paragraph {
-  margin: 0 0 20px 0;
+  margin: 0 0 30px 0;
 }
 .two-columns__paragraph:last-child {
-  margin: 0;
+  margin-bottom: 0;
 
 }
 .two-columns__span-accent {
@@ -134,7 +134,7 @@
   width: 60%;
   text-align: center;
   box-sizing: border-box;
-  margin: 0 auto 60px auto;
+  margin: 0 auto 0 auto;
 }
 .table {
   display: flex;
@@ -164,10 +164,7 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin-bottom: 20px;
-}
-.table__text:last-child {
-  margin: 0;
+  margin-top: 20px;
 }
 .feynman {
   margin: 0;
@@ -291,7 +288,7 @@
   font-size: 18px;
   font-weight: 600;
 }
-.footer__autor {
+.footer__author {
   margin: 18px 0;
 }
 .footer__column-link {
